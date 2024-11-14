@@ -2,7 +2,7 @@
 
 This repository contains a collection of TouchDesigner patches featuring shaders I've frequently used and adapted for TouchDesigner. This collection may grow over time as I add more shaders.
 
-![Shader Preview](images/shadercolection.png)
+![Shader Preview](shadercolection.png)
 ## Shader Categories
 
 The shaders are organized into two categories:
