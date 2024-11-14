@@ -14,3 +14,6 @@ LIGHTNING3D.
 FEEDBACKDISPLACE.
 KALEIDO.
 SPHEREEXTRUDE. 
+
+
+This are the shaders that i´ve used mostly in Guipper but addapted for touchdesigner
